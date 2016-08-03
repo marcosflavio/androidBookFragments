@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
         tab1.setTabListener(new MyTabListener(this,new Fragment1()));
         actionBar.addTab(tab1);
 
-
+        //Olá
 
         //TAB 2
         ActionBar.Tab tab2 = actionBar.newTab().setText("Tab 2");
